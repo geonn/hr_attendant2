@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779178387053",
+    "project_id": "hrms-1b0f5",
+    "storage_bucket": "hrms-1b0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779178387053:android:89b316d8f3386936740164",
+        "android_client_info": {
+          "package_name": "com.flexben.hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779178387053-gcl6tm187lapccotcs7mbscvfm3uiah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBLqmxOdreI_Fsd_3AlrgDNhkOFioJFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779178387053-gcl6tm187lapccotcs7mbscvfm3uiah7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
